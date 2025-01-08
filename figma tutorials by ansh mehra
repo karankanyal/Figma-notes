@@ -1,0 +1,41 @@
+figma from basic to advanced
+
+figma is a company which has 2 products-
+1- figma design- is a design tool where we design apps websites
+2- figjam- is specially designed for to collab and share design ideas, offers more free-form canvas with features like sticky notes and drawing tool.
+
+Raster vs Vector-
+In figma design we'll create all things in Vector.
+Raster is an another form of png/jpeg, It got pixelated.
+But vector graphic will not get pixelated.
+
+Canvas vs Frame-
+Canvas- is the working area where we create designs by arranging elements on a virtual sheet.
+Frame- is blank canvas.
+
+Frame vs Group-
+Frames have constraints while Grop does not have these
+Constraints- helps us to design responsive design (if I want to change the screen size inner elements should have change it's dimension)
+
+Alignments-
+Align layer to parent
+shortcut for align are left gaming buttons with alt(w-top, a-left, s-bottom, d-right, h-horizontally center, v-vertically center)
+  w
+a s d    v  h
+
+
+Renaming is independent of how things are on canvas.
+Renaming depends on the layer panel. (Means if I move order of any frame or anything in canvas it will not get changed in layer panel)
+To handel this issue we use a plugin Shorter
+Shorter-
+Press
+
+
+Text-
+minimum font size- 12px
+line height - (for Heading- 100%) and for (paragraphs- 135%)
+letter spacing - (-2%)
+
+Nested frame and nested constraints-
+Frame inside a frame called Nested framing
+And Constraints inside another constraints called nested constraints

@@ -1,0 +1,18 @@
+Responsive design VS Adaptive design-
+If we make design for a same device range then resizing it's inner fame for better UI is called Responsive design.(Frames alone helps to make Responsive design)
+While making the same design for another device then we have to create whole new components and frames. It is called Adaptive design.(components helps to make Adaptive design)
+
+Auto layout-
+Auto layout is a feature by which we can arrange items in hrozontal/vertical and wrap also we can fix width/height. If width is fixed and we have selected wrap then content inside that will automatically goes to the next line or will start expending vertically.
+
+Nested Auto layout-
+Auto layout inside another autolayout is nested autolayout.
+For example-
+In mailbox there are multiple emails and if i delete some middle one other emails below that should jump up this can achived by auto layout. Here we need to use nested Autolayout.
+
+
+Page -> Sections -> Frame -> Components
+
+
+Outline mode-
+Share any frame link directly-    command+L

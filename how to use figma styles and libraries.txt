@@ -1,0 +1,5 @@
+*Color Theroy for creating a website design*
+
+For Darker theme
+As surface comes near you, it becomes lighter shade-
+	items on top of antoher item(anything closer to me) will be in lighter color/shade
